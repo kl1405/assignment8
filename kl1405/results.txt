@@ -1,0 +1,8 @@
+position = 1
+Mean: 0.026102610261 and Standard deviation:0.99965926882
+position = 10
+Mean: 0.02100210021 and Standard deviation:0.32006436855
+position = 100
+Mean: 0.0220462046205 and Standard deviation:0.0996243241681
+position = 1000
+Mean: 0.0202328232823 and Standard deviation:0.0315147380857
